@@ -1,0 +1,79 @@
+[
+  {
+    "source_id": 60078,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0173.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "train",
+    "error": "No usable annotated crops"
+  },
+  {
+    "source_id": 60296,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0391.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "train",
+    "error": "No usable annotated crops"
+  },
+  {
+    "source_id": 60398,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0493.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "train",
+    "error": "No usable annotated crops"
+  },
+  {
+    "source_id": 60849,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0944.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "train",
+    "error": "No usable annotated crops"
+  },
+  {
+    "source_id": 61461,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1556.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "train",
+    "error": "No usable annotated crops"
+  },
+  {
+    "source_id": 61506,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1601.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "train",
+    "error": "No usable annotated crops"
+  },
+  {
+    "source_id": 61525,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1620.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "train",
+    "error": "No usable annotated crops"
+  },
+  {
+    "source_id": 61527,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1622.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "train",
+    "error": "No usable annotated crops"
+  },
+  {
+    "source_id": 61734,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1829.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "train",
+    "error": "No usable annotated crops"
+  },
+  {
+    "source_id": 62049,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\valid\\images\\Hydrangea__2527Claudie_2527_252C_Powdery_Mildew_JPG_jpg.rf.241a2ba81fae4dd8f4d42a639bf4c542.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "val",
+    "error": "No usable annotated crops"
+  },
+  {
+    "source_id": 62431,
+    "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\test\\images\\squashsilver2_JPG_jpg.rf.02bdb1c8a5c8bdf6f689f2fda33af990.jpg",
+    "dataset": "PlantDoc",
+    "original_split": "test",
+    "error": "No usable annotated crops"
+  }
+]

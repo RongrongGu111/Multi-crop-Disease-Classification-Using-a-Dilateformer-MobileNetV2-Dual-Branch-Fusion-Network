@@ -1,0 +1,3211 @@
+[
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (193).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (145).jpg",
+    "hamming": 0,
+    "rmse": 6.198
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (278).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (259).jpg",
+    "hamming": 0,
+    "rmse": 3.445
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (338).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (328).jpg",
+    "hamming": 4,
+    "rmse": 6.56
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (379).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (323).jpg",
+    "hamming": 1,
+    "rmse": 5.316
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (382).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (333).jpg",
+    "hamming": 0,
+    "rmse": 2.339
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (44).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (24).jpg",
+    "hamming": 2,
+    "rmse": 5.308
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (443).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (420).jpg",
+    "hamming": 1,
+    "rmse": 6.786
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (446).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (434).jpg",
+    "hamming": 1,
+    "rmse": 7.7
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (460).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (432).jpg",
+    "hamming": 4,
+    "rmse": 9.694
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (463).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (462).jpg",
+    "hamming": 4,
+    "rmse": 7.853
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (470).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (408).jpg",
+    "hamming": 2,
+    "rmse": 8.063
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (5).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (21).jpg",
+    "hamming": 3,
+    "rmse": 4.531
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (548).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (504).jpg",
+    "hamming": 4,
+    "rmse": 7.345
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (550).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (531).jpg",
+    "hamming": 2,
+    "rmse": 6.333
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (57).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (39).jpg",
+    "hamming": 1,
+    "rmse": 3.363
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (583).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (569).jpg",
+    "hamming": 0,
+    "rmse": 0.651
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (630).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (607).jpg",
+    "hamming": 2,
+    "rmse": 2.629
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (737).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (724).jpg",
+    "hamming": 3,
+    "rmse": 4.92
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (754).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (720).jpg",
+    "hamming": 4,
+    "rmse": 4.6
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (86).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (142).jpg",
+    "hamming": 0,
+    "rmse": 0.312
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (88).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (67).jpg",
+    "hamming": 4,
+    "rmse": 6.134
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (122).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (102).jpg",
+    "hamming": 2,
+    "rmse": 6.635
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (127).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (111).jpg",
+    "hamming": 1,
+    "rmse": 2.907
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (176).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (155).jpg",
+    "hamming": 0,
+    "rmse": 1.549
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (219).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (160).jpg",
+    "hamming": 0,
+    "rmse": 0.601
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (243).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (242).jpg",
+    "hamming": 1,
+    "rmse": 3.895
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (259).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (228).jpg",
+    "hamming": 0,
+    "rmse": 0.854
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (329).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (322).jpg",
+    "hamming": 1,
+    "rmse": 2.393
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (345).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (309).jpg",
+    "hamming": 1,
+    "rmse": 3.824
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (358).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (328).jpg",
+    "hamming": 0,
+    "rmse": 5.37
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (362).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (346).jpg",
+    "hamming": 1,
+    "rmse": 2.697
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (365).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (337).jpg",
+    "hamming": 0,
+    "rmse": 2.732
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (48).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (20).jpg",
+    "hamming": 3,
+    "rmse": 1.361
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (500).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (495).jpg",
+    "hamming": 3,
+    "rmse": 9.311
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (507).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (498).jpg",
+    "hamming": 1,
+    "rmse": 6.329
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (558).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (556).jpg",
+    "hamming": 3,
+    "rmse": 3.105
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (559).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (525).jpg",
+    "hamming": 0,
+    "rmse": 4.163
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (6).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (39).jpg",
+    "hamming": 1,
+    "rmse": 1.873
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (601).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (570).jpg",
+    "hamming": 4,
+    "rmse": 7.0
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (621).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (599).jpg",
+    "hamming": 0,
+    "rmse": 4.418
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (692).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (673).jpg",
+    "hamming": 1,
+    "rmse": 7.611
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (779).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (775).jpg",
+    "hamming": 2,
+    "rmse": 1.41
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (791).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (789).jpg",
+    "hamming": 2,
+    "rmse": 3.569
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (8).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (39).jpg",
+    "hamming": 4,
+    "rmse": 9.78
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (97).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (120).jpg",
+    "hamming": 2,
+    "rmse": 8.003
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (264).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (248).jpg",
+    "hamming": 2,
+    "rmse": 1.528
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (279).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (246).jpg",
+    "hamming": 0,
+    "rmse": 0.668
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (367).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (330).jpg",
+    "hamming": 4,
+    "rmse": 7.65
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (468).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (448).jpg",
+    "hamming": 1,
+    "rmse": 2.813
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (472).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (444).jpg",
+    "hamming": 1,
+    "rmse": 4.334
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (477).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (440).jpg",
+    "hamming": 1,
+    "rmse": 2.054
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (58).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (13).jpg",
+    "hamming": 1,
+    "rmse": 3.524
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (602).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (572).jpg",
+    "hamming": 4,
+    "rmse": 7.776
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (62).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (1).jpg",
+    "hamming": 4,
+    "rmse": 7.048
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (629).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (564).jpg",
+    "hamming": 3,
+    "rmse": 1.886
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (636).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (601).jpg",
+    "hamming": 0,
+    "rmse": 4.349
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (662).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (643).jpg",
+    "hamming": 1,
+    "rmse": 1.871
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (67).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (24).jpg",
+    "hamming": 1,
+    "rmse": 4.033
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (670).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (660).jpg",
+    "hamming": 3,
+    "rmse": 5.928
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (77).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (30).jpg",
+    "hamming": 0,
+    "rmse": 1.975
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (81).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (152).jpg",
+    "hamming": 3,
+    "rmse": 3.776
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (82).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (138).jpg",
+    "hamming": 4,
+    "rmse": 7.875
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (83).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (127).jpg",
+    "hamming": 0,
+    "rmse": 0.319
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (86).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (134).jpg",
+    "hamming": 1,
+    "rmse": 4.037
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (182).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (178).jpg",
+    "hamming": 1,
+    "rmse": 6.364
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (222).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (212).jpg",
+    "hamming": 4,
+    "rmse": 8.423
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (238).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (237).jpg",
+    "hamming": 3,
+    "rmse": 9.17
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (239).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (235).jpg",
+    "hamming": 1,
+    "rmse": 1.266
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (311).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (304).jpg",
+    "hamming": 2,
+    "rmse": 4.709
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (335).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (331).jpg",
+    "hamming": 2,
+    "rmse": 0.538
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (364).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (343).jpg",
+    "hamming": 3,
+    "rmse": 9.154
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (386).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (379).jpg",
+    "hamming": 1,
+    "rmse": 1.003
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (413).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (345).jpg",
+    "hamming": 1,
+    "rmse": 1.693
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (47).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (20).jpg",
+    "hamming": 4,
+    "rmse": 6.369
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (474).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (463).jpg",
+    "hamming": 4,
+    "rmse": 3.106
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (476).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (438).jpg",
+    "hamming": 2,
+    "rmse": 3.634
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (483).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (463).jpg",
+    "hamming": 3,
+    "rmse": 4.944
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (483).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (474).jpg",
+    "hamming": 1,
+    "rmse": 2.022
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (526).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (508).jpg",
+    "hamming": 4,
+    "rmse": 9.828
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (531).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (503).jpg",
+    "hamming": 1,
+    "rmse": 0.465
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (546).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (518).jpg",
+    "hamming": 3,
+    "rmse": 4.393
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (552).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (539).jpg",
+    "hamming": 4,
+    "rmse": 4.595
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (56).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (34).jpg",
+    "hamming": 1,
+    "rmse": 3.498
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (566).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (537).jpg",
+    "hamming": 1,
+    "rmse": 0.653
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (609).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (579).jpg",
+    "hamming": 1,
+    "rmse": 2.406
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (612).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (587).jpg",
+    "hamming": 3,
+    "rmse": 4.799
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (698).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (686).jpg",
+    "hamming": 4,
+    "rmse": 5.866
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (720).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (719).jpg",
+    "hamming": 2,
+    "rmse": 4.654
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (84).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (79).jpg",
+    "hamming": 3,
+    "rmse": 2.442
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (119).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (111).jpg",
+    "hamming": 1,
+    "rmse": 1.278
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (127).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (113).jpg",
+    "hamming": 1,
+    "rmse": 4.853
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (162).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (148).jpg",
+    "hamming": 0,
+    "rmse": 3.984
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (163).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (112).jpg",
+    "hamming": 3,
+    "rmse": 5.405
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (203).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (167).jpg",
+    "hamming": 2,
+    "rmse": 8.301
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (229).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (224).jpg",
+    "hamming": 4,
+    "rmse": 5.137
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (24).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (132).jpg",
+    "hamming": 1,
+    "rmse": 0.879
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (325).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (304).jpg",
+    "hamming": 1,
+    "rmse": 5.526
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (337).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (174).jpg",
+    "hamming": 2,
+    "rmse": 2.447
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (337).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (209).jpg",
+    "hamming": 4,
+    "rmse": 6.018
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (347).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (167).jpg",
+    "hamming": 0,
+    "rmse": 3.366
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (347).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (203).jpg",
+    "hamming": 2,
+    "rmse": 5.064
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (350).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (324).jpg",
+    "hamming": 0,
+    "rmse": 2.196
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (351).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (328).jpg",
+    "hamming": 0,
+    "rmse": 6.075
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (353).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (302).jpg",
+    "hamming": 4,
+    "rmse": 7.425
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (394).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (297).jpg",
+    "hamming": 2,
+    "rmse": 5.667
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (436).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (431).jpg",
+    "hamming": 0,
+    "rmse": 6.568
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (437).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (388).jpg",
+    "hamming": 1,
+    "rmse": 4.054
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (47).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (20).jpg",
+    "hamming": 3,
+    "rmse": 9.232
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (485).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (425).jpg",
+    "hamming": 3,
+    "rmse": 5.502
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (514).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (478).jpg",
+    "hamming": 3,
+    "rmse": 9.433
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (529).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (528).jpg",
+    "hamming": 1,
+    "rmse": 5.274
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (562).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (543).jpg",
+    "hamming": 1,
+    "rmse": 5.711
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (570).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (569).jpg",
+    "hamming": 4,
+    "rmse": 8.647
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (571).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (565).jpg",
+    "hamming": 1,
+    "rmse": 0.572
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (575).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (541).jpg",
+    "hamming": 1,
+    "rmse": 9.011
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (60).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (132).jpg",
+    "hamming": 3,
+    "rmse": 8.492
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (60).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (24).jpg",
+    "hamming": 4,
+    "rmse": 7.793
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (65).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (47).jpg",
+    "hamming": 1,
+    "rmse": 9.361
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (664).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (295).jpg",
+    "hamming": 1,
+    "rmse": 4.0
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (672).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (223).jpg",
+    "hamming": 3,
+    "rmse": 9.733
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (692).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (292).jpg",
+    "hamming": 0,
+    "rmse": 1.248
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (719).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (682).jpg",
+    "hamming": 4,
+    "rmse": 9.715
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (719).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (707).jpg",
+    "hamming": 0,
+    "rmse": 2.354
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (724).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (683).jpg",
+    "hamming": 3,
+    "rmse": 7.914
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (757).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (751).jpg",
+    "hamming": 1,
+    "rmse": 1.089
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (77).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (565).jpg",
+    "hamming": 1,
+    "rmse": 6.291
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (77).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (571).jpg",
+    "hamming": 2,
+    "rmse": 6.011
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (773).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (769).jpg",
+    "hamming": 2,
+    "rmse": 3.552
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (780).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (688).jpg",
+    "hamming": 0,
+    "rmse": 6.364
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (798).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (797).jpg",
+    "hamming": 2,
+    "rmse": 8.454
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (89).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (125).jpg",
+    "hamming": 0,
+    "rmse": 3.588
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (94).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (108).jpg",
+    "hamming": 4,
+    "rmse": 7.091
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (96).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (79).jpg",
+    "hamming": 2,
+    "rmse": 4.418
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (150).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (147).jpg",
+    "hamming": 1,
+    "rmse": 6.639
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (158).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (109).jpg",
+    "hamming": 2,
+    "rmse": 2.433
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (159).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (139).jpg",
+    "hamming": 0,
+    "rmse": 1.433
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (190).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (166).jpg",
+    "hamming": 0,
+    "rmse": 3.355
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (204).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (175).jpg",
+    "hamming": 2,
+    "rmse": 4.438
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (241).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (198).jpg",
+    "hamming": 4,
+    "rmse": 5.868
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (289).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (283).jpg",
+    "hamming": 0,
+    "rmse": 7.058
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (316).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (290).jpg",
+    "hamming": 2,
+    "rmse": 9.754
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (33).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (1).jpg",
+    "hamming": 0,
+    "rmse": 0.258
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (360).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (332).jpg",
+    "hamming": 0,
+    "rmse": 0.675
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (361).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (350).jpg",
+    "hamming": 1,
+    "rmse": 2.619
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (363).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (354).jpg",
+    "hamming": 0,
+    "rmse": 0.825
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (441).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (436).jpg",
+    "hamming": 1,
+    "rmse": 7.157
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (442).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (427).jpg",
+    "hamming": 4,
+    "rmse": 6.417
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (508).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (498).jpg",
+    "hamming": 2,
+    "rmse": 7.227
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (538).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (488).jpg",
+    "hamming": 3,
+    "rmse": 4.12
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (539).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (490).jpg",
+    "hamming": 1,
+    "rmse": 2.342
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (553).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (529).jpg",
+    "hamming": 0,
+    "rmse": 1.363
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (635).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (626).jpg",
+    "hamming": 4,
+    "rmse": 7.552
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (689).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (649).jpg",
+    "hamming": 0,
+    "rmse": 0.714
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (729).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (725).jpg",
+    "hamming": 4,
+    "rmse": 9.29
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (776).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (742).jpg",
+    "hamming": 2,
+    "rmse": 2.368
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (787).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (766).jpg",
+    "hamming": 3,
+    "rmse": 2.467
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (800).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (70).jpg",
+    "hamming": 4,
+    "rmse": 4.149
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (147).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (139).jpg",
+    "hamming": 3,
+    "rmse": 7.369
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (153).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (146).jpg",
+    "hamming": 4,
+    "rmse": 7.407
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (196).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (155).jpg",
+    "hamming": 0,
+    "rmse": 0.213
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (241).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (216).jpg",
+    "hamming": 4,
+    "rmse": 4.753
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (317).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (267).jpg",
+    "hamming": 4,
+    "rmse": 6.084
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (383).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (339).jpg",
+    "hamming": 0,
+    "rmse": 2.796
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (385).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (348).jpg",
+    "hamming": 0,
+    "rmse": 2.336
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (394).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (367).jpg",
+    "hamming": 0,
+    "rmse": 1.725
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (397).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (363).jpg",
+    "hamming": 0,
+    "rmse": 0.933
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (4).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (20).jpg",
+    "hamming": 1,
+    "rmse": 2.307
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (400).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (353).jpg",
+    "hamming": 4,
+    "rmse": 7.21
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (404).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (347).jpg",
+    "hamming": 1,
+    "rmse": 4.587
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (498).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (443).jpg",
+    "hamming": 1,
+    "rmse": 0.948
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (51).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (49).jpg",
+    "hamming": 4,
+    "rmse": 4.843
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (530).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (522).jpg",
+    "hamming": 0,
+    "rmse": 0.363
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (579).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (515).jpg",
+    "hamming": 0,
+    "rmse": 3.854
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (667).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (605).jpg",
+    "hamming": 1,
+    "rmse": 0.568
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (696).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (673).jpg",
+    "hamming": 0,
+    "rmse": 1.791
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (739).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (682).jpg",
+    "hamming": 4,
+    "rmse": 3.316
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (785).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (31).jpg",
+    "hamming": 1,
+    "rmse": 2.638
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (788).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (24).jpg",
+    "hamming": 2,
+    "rmse": 9.652
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (791).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (1).jpg",
+    "hamming": 2,
+    "rmse": 3.551
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Orange___Haunglongbing_(Citrus_greening)\\36cf9442-7b86-4713-b2dd-64208f68eb8e___UF.Citrus_HLB_Lab 9905.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Orange___Haunglongbing_(Citrus_greening)\\0618177f-c21e-4075-bf1c-ea3ac9cca3e4___UF.Citrus_HLB_Lab 9904.JPG",
+    "hamming": 4,
+    "rmse": 7.975
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Orange___Haunglongbing_(Citrus_greening)\\6de27421-3bfe-49b7-a21f-1a50caf7a1dc___UF.Citrus_HLB_Lab 1217.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Orange___Haunglongbing_(Citrus_greening)\\11bdfcfd-efbc-48d1-9623-e3a91da5a3d5___UF.Citrus_HLB_Lab 1216.JPG",
+    "hamming": 3,
+    "rmse": 6.621
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Orange___Haunglongbing_(Citrus_greening)\\ba546ecd-3d67-4243-99dd-065ca5b357ae___UF.Citrus_HLB_Lab 1041.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Orange___Haunglongbing_(Citrus_greening)\\52a571d0-e9ca-4bba-baff-53d6d928bb10___UF.Citrus_HLB_Lab 1042.JPG",
+    "hamming": 4,
+    "rmse": 8.721
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Orange___Haunglongbing_(Citrus_greening)\\ee1cb6cb-e891-4aea-8024-695ae62527ce___UF.Citrus_HLB_Lab 1137.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Orange___Haunglongbing_(Citrus_greening)\\9fe8f6a6-c1de-4897-9e30-66125ace4a31___UF.Citrus_HLB_Lab 1136.JPG",
+    "hamming": 3,
+    "rmse": 5.869
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Pepper_bell___Healthy\\f460de9c-14ab-4bac-8cb6-b25c958ae78f___JR_HL 8596.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Pepper_bell___Healthy\\432a3897-5e80-45d6-b795-4fa206a58e26___JR_HL 8595.JPG",
+    "hamming": 4,
+    "rmse": 9.03
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Soybean___Healthy\\4d3daf43-0f32-4cde-91a4-9a0e6f3f7e99___RS_HL 5594.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Soybean___Healthy\\30833fd7-3bb9-4605-bfd6-1ac7ec587474___RS_HL 5592.JPG",
+    "hamming": 1,
+    "rmse": 9.292
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Strawberry___Leaf_scorch\\cb060904-20f5-4192-b4bf-83ee54be17f0___RS_L.Scorch 1287.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Strawberry___Leaf_scorch\\97fc0a8d-280a-44e2-811d-71419f9a5526___RS_L.Scorch 1277.JPG",
+    "hamming": 4,
+    "rmse": 8.301
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cherry_(including_sour)___Powdery_mildew\\581c8e0d-54e0-4a4e-937d-919d0b914c9b___FREC_Pwd.M 0371.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cherry_(including_sour)___Powdery_mildew\\c0ae9762-af5a-489d-9399-96732dc40391___FREC_Pwd.M 0370.JPG",
+    "hamming": 4,
+    "rmse": 8.411
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cherry_(including_sour)___Powdery_mildew\\c097e7ca-2488-497c-94be-4646e950bc54___FREC_Pwd.M 4513.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cherry_(including_sour)___Powdery_mildew\\b0698c28-34b6-4232-aa9c-55fb466df8dd___FREC_Pwd.M 4512.JPG",
+    "hamming": 2,
+    "rmse": 9.848
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Corn_(maize)___Healthy\\49ecc957-9ec7-45f7-a3c9-d1e63cf224df___R.S_HL 0607 copy 2.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Corn_(maize)___Healthy\\6aaf943e-fb16-4f8f-86c5-dc36724e25e5___R.S_HL 0607.JPG",
+    "hamming": 0,
+    "rmse": 1.921
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Corn_(maize)___Healthy\\94ca39a0-d4df-44c6-b5cc-a38a754506e5___R.S_HL 0601 copy 3.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Corn_(maize)___Healthy\\8afc9635-c5e3-41be-aac0-74109d6112ed___R.S_HL 0601 copy 2.jpg",
+    "hamming": 0,
+    "rmse": 1.007
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Corn_(maize)___Northern_Leaf_Blight\\b7ec2193-2a49-43b9-9962-7a13d472e668___RS_NLB 4044.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Corn_(maize)___Northern_Leaf_Blight\\83327a8d-9bfd-49d6-9fc9-bc065a379bce___RS_NLB 4044 copy 2.jpg",
+    "hamming": 1,
+    "rmse": 2.473
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (105).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (77).jpg",
+    "hamming": 2,
+    "rmse": 5.707
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (162).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (168).jpg",
+    "hamming": 1,
+    "rmse": 1.775
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (163).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (214).jpg",
+    "hamming": 4,
+    "rmse": 5.23
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (200).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (213).jpg",
+    "hamming": 3,
+    "rmse": 7.437
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (245).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (291).jpg",
+    "hamming": 2,
+    "rmse": 4.972
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (260).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (301).jpg",
+    "hamming": 2,
+    "rmse": 0.868
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (29).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (39).jpg",
+    "hamming": 4,
+    "rmse": 5.895
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (329).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (306).jpg",
+    "hamming": 0,
+    "rmse": 1.437
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (331).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (316).jpg",
+    "hamming": 0,
+    "rmse": 4.867
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (360).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (349).jpg",
+    "hamming": 1,
+    "rmse": 1.824
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (419).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (409).jpg",
+    "hamming": 2,
+    "rmse": 4.585
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (461).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (786).jpg",
+    "hamming": 3,
+    "rmse": 2.239
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (52).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (12).jpg",
+    "hamming": 0,
+    "rmse": 1.484
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (594).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (574).jpg",
+    "hamming": 3,
+    "rmse": 4.363
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (692).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (635).jpg",
+    "hamming": 4,
+    "rmse": 6.374
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (7).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (16).jpg",
+    "hamming": 4,
+    "rmse": 5.761
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (717).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (740).jpg",
+    "hamming": 0,
+    "rmse": 3.242
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (776).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (752).jpg",
+    "hamming": 0,
+    "rmse": 0.419
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (779).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (778).jpg",
+    "hamming": 0,
+    "rmse": 2.54
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (206).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (171).jpg",
+    "hamming": 3,
+    "rmse": 3.714
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (209).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (149).jpg",
+    "hamming": 2,
+    "rmse": 3.848
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (213).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (155).jpg",
+    "hamming": 2,
+    "rmse": 5.227
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (213).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (176).jpg",
+    "hamming": 2,
+    "rmse": 6.542
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (24).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (51).jpg",
+    "hamming": 0,
+    "rmse": 2.134
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (265).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (270).jpg",
+    "hamming": 3,
+    "rmse": 9.943
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (335).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (342).jpg",
+    "hamming": 1,
+    "rmse": 2.516
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (445).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (432).jpg",
+    "hamming": 0,
+    "rmse": 3.17
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (465).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (419).jpg",
+    "hamming": 3,
+    "rmse": 6.985
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (493).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (484).jpg",
+    "hamming": 3,
+    "rmse": 2.71
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (535).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (537).jpg",
+    "hamming": 3,
+    "rmse": 7.559
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (723).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (747).jpg",
+    "hamming": 3,
+    "rmse": 8.76
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (731).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (762).jpg",
+    "hamming": 3,
+    "rmse": 6.329
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (734).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (749).jpg",
+    "hamming": 2,
+    "rmse": 5.365
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (750).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (748).jpg",
+    "hamming": 1,
+    "rmse": 5.511
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (78).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (80).jpg",
+    "hamming": 2,
+    "rmse": 6.373
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (107).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (145).jpg",
+    "hamming": 4,
+    "rmse": 7.205
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (18).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (44).jpg",
+    "hamming": 3,
+    "rmse": 9.77
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (195).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (190).jpg",
+    "hamming": 2,
+    "rmse": 5.081
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (225).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (182).jpg",
+    "hamming": 1,
+    "rmse": 4.063
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (236).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (181).jpg",
+    "hamming": 2,
+    "rmse": 2.194
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (238).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (230).jpg",
+    "hamming": 4,
+    "rmse": 6.386
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (308).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (303).jpg",
+    "hamming": 0,
+    "rmse": 9.763
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (356).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (387).jpg",
+    "hamming": 4,
+    "rmse": 7.649
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (382).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (363).jpg",
+    "hamming": 4,
+    "rmse": 6.529
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (404).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (402).jpg",
+    "hamming": 2,
+    "rmse": 3.351
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (452).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (473).jpg",
+    "hamming": 1,
+    "rmse": 6.272
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (552).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (548).jpg",
+    "hamming": 4,
+    "rmse": 9.202
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (590).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (565).jpg",
+    "hamming": 3,
+    "rmse": 3.232
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (618).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (576).jpg",
+    "hamming": 1,
+    "rmse": 4.897
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (652).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (650).jpg",
+    "hamming": 0,
+    "rmse": 2.233
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (664).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (646).jpg",
+    "hamming": 0,
+    "rmse": 0.466
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (675).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (646).jpg",
+    "hamming": 2,
+    "rmse": 2.812
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (675).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (664).jpg",
+    "hamming": 2,
+    "rmse": 3.064
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (678).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (674).jpg",
+    "hamming": 4,
+    "rmse": 3.878
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (735).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (741).jpg",
+    "hamming": 1,
+    "rmse": 1.76
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (739).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (751).jpg",
+    "hamming": 2,
+    "rmse": 1.486
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (743).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (745).jpg",
+    "hamming": 1,
+    "rmse": 5.313
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (772).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (794).jpg",
+    "hamming": 3,
+    "rmse": 8.078
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (800).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (770).jpg",
+    "hamming": 1,
+    "rmse": 2.646
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Belly_Rot\\Belly Rot (84).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (141).jpg",
+    "hamming": 1,
+    "rmse": 3.913
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (141).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (106).jpg",
+    "hamming": 2,
+    "rmse": 2.286
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (168).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (104).jpg",
+    "hamming": 4,
+    "rmse": 7.496
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (213).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (224).jpg",
+    "hamming": 0,
+    "rmse": 1.682
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (289).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (261).jpg",
+    "hamming": 3,
+    "rmse": 4.753
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (295).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (275).jpg",
+    "hamming": 2,
+    "rmse": 2.599
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (298).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (320).jpg",
+    "hamming": 3,
+    "rmse": 5.144
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (423).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (436).jpg",
+    "hamming": 0,
+    "rmse": 0.805
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (435).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (455).jpg",
+    "hamming": 4,
+    "rmse": 1.913
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (461).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (491).jpg",
+    "hamming": 0,
+    "rmse": 1.422
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (466).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (152).jpg",
+    "hamming": 4,
+    "rmse": 4.39
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (554).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (527).jpg",
+    "hamming": 4,
+    "rmse": 9.711
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (585).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (648).jpg",
+    "hamming": 2,
+    "rmse": 2.762
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (591).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (615).jpg",
+    "hamming": 0,
+    "rmse": 0.472
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (634).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (650).jpg",
+    "hamming": 1,
+    "rmse": 1.835
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (731).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (711).jpg",
+    "hamming": 1,
+    "rmse": 1.456
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (754).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (798).jpg",
+    "hamming": 0,
+    "rmse": 5.007
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (755).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (785).jpg",
+    "hamming": 4,
+    "rmse": 5.723
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (780).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (790).jpg",
+    "hamming": 3,
+    "rmse": 3.874
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (793).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (736).jpg",
+    "hamming": 1,
+    "rmse": 4.116
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (800).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (771).jpg",
+    "hamming": 3,
+    "rmse": 8.947
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (96).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (88).jpg",
+    "hamming": 2,
+    "rmse": 8.281
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (137).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (52).jpg",
+    "hamming": 2,
+    "rmse": 3.934
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (164).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (202).jpg",
+    "hamming": 3,
+    "rmse": 7.001
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (197).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (212).jpg",
+    "hamming": 2,
+    "rmse": 6.794
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (284).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (784).jpg",
+    "hamming": 0,
+    "rmse": 0.743
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (287).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (294).jpg",
+    "hamming": 4,
+    "rmse": 9.4
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (316).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (319).jpg",
+    "hamming": 3,
+    "rmse": 8.187
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (321).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (15).jpg",
+    "hamming": 3,
+    "rmse": 9.295
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (428).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (500).jpg",
+    "hamming": 2,
+    "rmse": 9.87
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (430).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (405).jpg",
+    "hamming": 0,
+    "rmse": 0.54
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (453).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (698).jpg",
+    "hamming": 4,
+    "rmse": 5.16
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (487).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (448).jpg",
+    "hamming": 2,
+    "rmse": 6.01
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (497).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (454).jpg",
+    "hamming": 3,
+    "rmse": 1.156
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (503).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (748).jpg",
+    "hamming": 4,
+    "rmse": 7.43
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (540).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (536).jpg",
+    "hamming": 2,
+    "rmse": 0.812
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (557).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (564).jpg",
+    "hamming": 2,
+    "rmse": 4.505
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (598).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (49).jpg",
+    "hamming": 1,
+    "rmse": 1.053
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (611).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (25).jpg",
+    "hamming": 1,
+    "rmse": 5.684
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (623).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (649).jpg",
+    "hamming": 1,
+    "rmse": 3.494
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (625).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (651).jpg",
+    "hamming": 2,
+    "rmse": 2.696
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (659).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (600).jpg",
+    "hamming": 4,
+    "rmse": 7.155
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (663).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (599).jpg",
+    "hamming": 0,
+    "rmse": 6.369
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (677).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (258).jpg",
+    "hamming": 1,
+    "rmse": 3.277
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (681).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (258).jpg",
+    "hamming": 1,
+    "rmse": 4.378
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (681).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (677).jpg",
+    "hamming": 0,
+    "rmse": 1.224
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (738).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (261).jpg",
+    "hamming": 3,
+    "rmse": 6.621
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (75).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (146).jpg",
+    "hamming": 3,
+    "rmse": 8.056
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (760).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (765).jpg",
+    "hamming": 0,
+    "rmse": 2.474
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (768).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (767).jpg",
+    "hamming": 0,
+    "rmse": 2.471
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (777).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (693).jpg",
+    "hamming": 3,
+    "rmse": 2.884
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (785).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (271).jpg",
+    "hamming": 2,
+    "rmse": 7.765
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (786).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (271).jpg",
+    "hamming": 2,
+    "rmse": 4.807
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (786).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (785).jpg",
+    "hamming": 0,
+    "rmse": 3.249
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (8).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (50).jpg",
+    "hamming": 3,
+    "rmse": 5.864
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (800).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (792).jpg",
+    "hamming": 2,
+    "rmse": 7.915
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (9).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (39).jpg",
+    "hamming": 0,
+    "rmse": 0.59
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (120).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (129).jpg",
+    "hamming": 1,
+    "rmse": 6.483
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (327).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (333).jpg",
+    "hamming": 3,
+    "rmse": 7.236
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (432).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (410).jpg",
+    "hamming": 2,
+    "rmse": 5.084
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (464).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (455).jpg",
+    "hamming": 2,
+    "rmse": 3.354
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (466).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (405).jpg",
+    "hamming": 2,
+    "rmse": 1.755
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (477).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (475).jpg",
+    "hamming": 4,
+    "rmse": 6.459
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (491).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (552).jpg",
+    "hamming": 2,
+    "rmse": 3.097
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (589).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (634).jpg",
+    "hamming": 3,
+    "rmse": 2.741
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (657).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (714).jpg",
+    "hamming": 1,
+    "rmse": 1.206
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (705).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (645).jpg",
+    "hamming": 1,
+    "rmse": 0.5
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (746).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (768).jpg",
+    "hamming": 0,
+    "rmse": 0.862
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (105).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (42).jpg",
+    "hamming": 1,
+    "rmse": 1.416
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (201).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (242).jpg",
+    "hamming": 0,
+    "rmse": 2.547
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (205).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (207).jpg",
+    "hamming": 0,
+    "rmse": 3.56
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (281).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (286).jpg",
+    "hamming": 3,
+    "rmse": 4.011
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (290).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (314).jpg",
+    "hamming": 0,
+    "rmse": 3.186
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (337).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (387).jpg",
+    "hamming": 3,
+    "rmse": 4.903
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (345).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (357).jpg",
+    "hamming": 4,
+    "rmse": 5.267
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (469).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (467).jpg",
+    "hamming": 4,
+    "rmse": 8.127
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (481).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (420).jpg",
+    "hamming": 0,
+    "rmse": 0.455
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (514).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (584).jpg",
+    "hamming": 4,
+    "rmse": 9.216
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (547).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (552).jpg",
+    "hamming": 1,
+    "rmse": 0.456
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (571).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (509).jpg",
+    "hamming": 4,
+    "rmse": 4.593
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (656).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (623).jpg",
+    "hamming": 1,
+    "rmse": 0.951
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (663).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (637).jpg",
+    "hamming": 1,
+    "rmse": 3.257
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (666).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (595).jpg",
+    "hamming": 4,
+    "rmse": 3.706
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (683).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (679).jpg",
+    "hamming": 4,
+    "rmse": 6.193
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (727).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (733).jpg",
+    "hamming": 0,
+    "rmse": 0.323
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (765).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (28).jpg",
+    "hamming": 4,
+    "rmse": 3.647
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (765).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (761).jpg",
+    "hamming": 4,
+    "rmse": 2.66
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Orange___Haunglongbing_(Citrus_greening)\\89d58712-8525-4ee1-ae66-0611e89af2b9___UF.Citrus_HLB_Lab 9851.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Orange___Haunglongbing_(Citrus_greening)\\02a08053-27c4-4cdb-aa0b-f6818debc9f9___UF.Citrus_HLB_Lab 9852.JPG",
+    "hamming": 1,
+    "rmse": 6.712
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Orange___Haunglongbing_(Citrus_greening)\\ec929a81-01f4-492e-9a5d-fadefcb93d19___UF.Citrus_HLB_Lab 1236.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Orange___Haunglongbing_(Citrus_greening)\\f1196567-5fdf-48d7-aabe-953f4f55bccd___UF.Citrus_HLB_Lab 1235.JPG",
+    "hamming": 1,
+    "rmse": 9.545
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Pepper_bell___Healthy\\c40b6a46-5181-43ad-a27d-7e68fcd20f87___JR_HL 8553.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Pepper_bell___Healthy\\75306d8b-d8f7-440a-9084-7f1dc02fe794___JR_HL 8552.JPG",
+    "hamming": 2,
+    "rmse": 8.812
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Soybean___Healthy\\c196bf2c-d07a-48e9-8283-a529351b1118___RS_HL 6275.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Soybean___Healthy\\e67b3438-c1bc-438d-aea3-10cf53b487bd___RS_HL 6273.JPG",
+    "hamming": 3,
+    "rmse": 6.832
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Soybean___Healthy\\ffdc654b-da66-4c21-9837-396c227ebc41___RS_HL 6435.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Soybean___Healthy\\b9b43bc3-5e8b-41b3-9891-a12efaf05074___RS_HL 6437.JPG",
+    "hamming": 3,
+    "rmse": 9.689
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cherry_(including_sour)___Healthy\\a52b26ec-29a5-4bb6-b3e4-f7599240e0d3___JR_HL 4021.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cherry_(including_sour)___Healthy\\0e74a030-4b86-4c3f-8944-31e68d1911ba___JR_HL 4016.JPG",
+    "hamming": 2,
+    "rmse": 8.642
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cherry_(including_sour)___Powdery_mildew\\910283ff-e130-48c1-9a7d-a379a90e8bf4___FREC_Pwd.M 0381.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cherry_(including_sour)___Powdery_mildew\\c327e44c-a0df-4811-89da-af4a761aeefb___FREC_Pwd.M 0380.JPG",
+    "hamming": 3,
+    "rmse": 6.294
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (106).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (69).jpg",
+    "hamming": 1,
+    "rmse": 5.387
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (208).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (216).jpg",
+    "hamming": 3,
+    "rmse": 2.331
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (264).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (243).jpg",
+    "hamming": 2,
+    "rmse": 3.616
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (284).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (280).jpg",
+    "hamming": 2,
+    "rmse": 0.863
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (292).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (293).jpg",
+    "hamming": 1,
+    "rmse": 6.331
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (350).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (371).jpg",
+    "hamming": 4,
+    "rmse": 6.225
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (388).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (361).jpg",
+    "hamming": 1,
+    "rmse": 6.357
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (484).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (508).jpg",
+    "hamming": 0,
+    "rmse": 2.564
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (571).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (558).jpg",
+    "hamming": 0,
+    "rmse": 2.769
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (640).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (707).jpg",
+    "hamming": 2,
+    "rmse": 2.707
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (76).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (66).jpg",
+    "hamming": 0,
+    "rmse": 0.877
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (272).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (225).jpg",
+    "hamming": 2,
+    "rmse": 9.646
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (405).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (425).jpg",
+    "hamming": 4,
+    "rmse": 8.182
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (450).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (390).jpg",
+    "hamming": 3,
+    "rmse": 8.232
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (579).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (623).jpg",
+    "hamming": 3,
+    "rmse": 7.042
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (593).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (578).jpg",
+    "hamming": 3,
+    "rmse": 9.501
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (630).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (602).jpg",
+    "hamming": 0,
+    "rmse": 4.391
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (725).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (769).jpg",
+    "hamming": 1,
+    "rmse": 6.403
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (768).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Bacterial_Wilt\\Bacterial Wilt (798).jpg",
+    "hamming": 1,
+    "rmse": 6.094
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Belly_Rot\\Belly Rot (205).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (204).jpg",
+    "hamming": 3,
+    "rmse": 6.226
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Belly_Rot\\Belly Rot (300).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (290).jpg",
+    "hamming": 4,
+    "rmse": 7.596
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Belly_Rot\\Belly Rot (312).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (253).jpg",
+    "hamming": 1,
+    "rmse": 3.238
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Belly_Rot\\Belly Rot (348).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (324).jpg",
+    "hamming": 3,
+    "rmse": 8.795
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Belly_Rot\\Belly Rot (677).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (680).jpg",
+    "hamming": 1,
+    "rmse": 4.357
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Belly_Rot\\Belly Rot (75).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Belly_Rot\\Belly Rot (76).jpg",
+    "hamming": 2,
+    "rmse": 4.276
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (119).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (147).jpg",
+    "hamming": 4,
+    "rmse": 4.528
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (122).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (161).jpg",
+    "hamming": 4,
+    "rmse": 8.875
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (17).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (30).jpg",
+    "hamming": 1,
+    "rmse": 7.661
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (211).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (220).jpg",
+    "hamming": 3,
+    "rmse": 7.712
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (263).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (268).jpg",
+    "hamming": 0,
+    "rmse": 0.853
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (32).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (64).jpg",
+    "hamming": 1,
+    "rmse": 1.442
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (339).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (201).jpg",
+    "hamming": 1,
+    "rmse": 2.671
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (352).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (198).jpg",
+    "hamming": 4,
+    "rmse": 8.467
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (374).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (398).jpg",
+    "hamming": 1,
+    "rmse": 1.94
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (429).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (467).jpg",
+    "hamming": 1,
+    "rmse": 3.164
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (514).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Downy_Mildew\\Downy Mildew (524).jpg",
+    "hamming": 0,
+    "rmse": 1.108
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (548).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (535).jpg",
+    "hamming": 4,
+    "rmse": 4.84
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Downy_Mildew\\Downy Mildew (99).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Downy_Mildew\\Downy Mildew (95).jpg",
+    "hamming": 4,
+    "rmse": 9.157
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (107).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (65).jpg",
+    "hamming": 0,
+    "rmse": 5.84
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (21).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (74).jpg",
+    "hamming": 0,
+    "rmse": 0.864
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (218).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (173).jpg",
+    "hamming": 2,
+    "rmse": 9.878
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (338).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (316).jpg",
+    "hamming": 2,
+    "rmse": 1.767
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (446).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (188).jpg",
+    "hamming": 3,
+    "rmse": 5.514
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (459).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (484).jpg",
+    "hamming": 3,
+    "rmse": 7.453
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (462).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (492).jpg",
+    "hamming": 2,
+    "rmse": 6.493
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (521).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (569).jpg",
+    "hamming": 3,
+    "rmse": 4.926
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (521).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (570).jpg",
+    "hamming": 3,
+    "rmse": 3.888
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (553).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (753).jpg",
+    "hamming": 2,
+    "rmse": 8.951
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (641).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (58).jpg",
+    "hamming": 4,
+    "rmse": 8.025
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (703).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (673).jpg",
+    "hamming": 1,
+    "rmse": 3.952
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (752).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (533).jpg",
+    "hamming": 3,
+    "rmse": 4.197
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (759).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (371).jpg",
+    "hamming": 2,
+    "rmse": 5.013
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (790).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Gummy_Stem_Blight\\Gummy Stem Blight (793).jpg",
+    "hamming": 1,
+    "rmse": 2.604
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (180).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (178).jpg",
+    "hamming": 3,
+    "rmse": 7.273
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (225).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (189).jpg",
+    "hamming": 3,
+    "rmse": 5.983
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (353).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (341).jpg",
+    "hamming": 3,
+    "rmse": 7.821
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (392).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (343).jpg",
+    "hamming": 0,
+    "rmse": 3.579
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (5).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (139).jpg",
+    "hamming": 1,
+    "rmse": 3.709
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (5).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (159).jpg",
+    "hamming": 1,
+    "rmse": 5.056
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (567).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (582).jpg",
+    "hamming": 1,
+    "rmse": 1.971
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (58).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (13).jpg",
+    "hamming": 0,
+    "rmse": 0.323
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (613).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Healthy\\Fresh Leaf (593).jpg",
+    "hamming": 2,
+    "rmse": 2.514
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (688).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (709).jpg",
+    "hamming": 4,
+    "rmse": 9.906
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Healthy\\Fresh Leaf (708).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Healthy\\Fresh Leaf (656).jpg",
+    "hamming": 4,
+    "rmse": 9.456
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (10).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (784).jpg",
+    "hamming": 1,
+    "rmse": 4.964
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (416).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (478).jpg",
+    "hamming": 2,
+    "rmse": 9.479
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (446).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (472).jpg",
+    "hamming": 4,
+    "rmse": 3.193
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (534).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (578).jpg",
+    "hamming": 3,
+    "rmse": 4.96
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (64).jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Pythium_Fruit_Rot\\Pythium Fruit Rot (43).jpg",
+    "hamming": 2,
+    "rmse": 4.533
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Pepper_bell___Healthy\\d382a1c3-8bd6-4a24-a231-a99b61404e48___JR_HL 8692.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Pepper_bell___Healthy\\1dab0ba9-9982-46ec-9ef6-70a1698baf04___JR_HL 8690.JPG",
+    "hamming": 2,
+    "rmse": 6.656
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Strawberry___Healthy\\7cec5131-85c7-498f-87e3-63e4fa847094___RS_HL 1834.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Strawberry___Healthy\\b938a735-b7a3-463d-b5b9-3bfd7041fe51___RS_HL 1844.JPG",
+    "hamming": 4,
+    "rmse": 8.734
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\1802387a-2c1e-4700-aa3f-2535c62278f0___UF.GRC_YLCV_Lab 02097.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\d65b18d5-1584-4022-bd18-79c1b181056e___UF.GRC_YLCV_Lab 02098.JPG",
+    "hamming": 2,
+    "rmse": 7.885
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\7d85c8c9-a4fa-4241-9de5-dd9959ea7a62___UF.GRC_YLCV_Lab 01726.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\e5fd4586-d720-4e69-892c-9e5e68beee6b___UF.GRC_YLCV_Lab 01727.JPG",
+    "hamming": 4,
+    "rmse": 9.478
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\e5777f61-ddb7-4acb-bd53-0ca82ba5ab52___UF.GRC_YLCV_Lab 01536.JPG",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Tomato_Yellow_Leaf_Curl_Virus\\06718520-1ddc-40e0-ada1-37910bc41e36___UF.GRC_YLCV_Lab 01534.JPG",
+    "hamming": 3,
+    "rmse": 7.07
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0178.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0177.jpg",
+    "hamming": 0,
+    "rmse": 0.736
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0347.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0287.jpg",
+    "hamming": 0,
+    "rmse": 0.582
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0668.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0406.jpg",
+    "hamming": 0,
+    "rmse": 0.881
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0714.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0713.jpg",
+    "hamming": 0,
+    "rmse": 0.652
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0798.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0515.jpg",
+    "hamming": 1,
+    "rmse": 1.675
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0834.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0069.jpg",
+    "hamming": 0,
+    "rmse": 0.519
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0936.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0336.jpg",
+    "hamming": 0,
+    "rmse": 0.783
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0953.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0952.jpg",
+    "hamming": 0,
+    "rmse": 0.876
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1040.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0652.jpg",
+    "hamming": 0,
+    "rmse": 0.523
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1121.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1120.jpg",
+    "hamming": 2,
+    "rmse": 8.214
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1203.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0951.jpg",
+    "hamming": 0,
+    "rmse": 0.64
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1218.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0267.jpg",
+    "hamming": 0,
+    "rmse": 4.648
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1265.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1264.jpg",
+    "hamming": 1,
+    "rmse": 0.866
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1360.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1354.jpg",
+    "hamming": 1,
+    "rmse": 0.354
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1477.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1353.jpg",
+    "hamming": 2,
+    "rmse": 1.215
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1813.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0658.jpg",
+    "hamming": 0,
+    "rmse": 0.433
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1814.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0855.jpg",
+    "hamming": 0,
+    "rmse": 0.792
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1820.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0133.jpg",
+    "hamming": 0,
+    "rmse": 0.565
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1839.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0808.jpg",
+    "hamming": 0,
+    "rmse": 6.715
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1854.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1499.jpg",
+    "hamming": 0,
+    "rmse": 0.603
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1923.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0495.jpg",
+    "hamming": 0,
+    "rmse": 0.629
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\valid\\images\\14321627273_58d893c3e2_b_jpg.rf.d9d414017715b39ac7b6eb83aeb32399.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0083.jpg",
+    "hamming": 3,
+    "rmse": 0.691
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\valid\\images\\BCH_20medium_20thumbnail_20for_20upload_20_2814_29_jpg.rf.29960c51d43dd43f197e996daa40bcc1.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0355.jpg",
+    "hamming": 0,
+    "rmse": 0.62
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\valid\\images\\Early_blight_jpg.rf.d6a0ad679901d48250fbe7828658018e.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0504.jpg",
+    "hamming": 0,
+    "rmse": 0.662
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\valid\\images\\image_original_jpeg_1472603886_jpg.rf.2f0c3935057051c57ee522b5f8005c0d.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\valid\\images\\image_1500x1500_253E_jpeg_1467983528_jpg.rf.1b085d39763bcfe63e4f25ef86065fc0.jpg",
+    "hamming": 0,
+    "rmse": 0.384
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\valid\\images\\Pest2369_jpg.rf.719b8d7d143a087262154dd043cac55c.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0499.jpg",
+    "hamming": 0,
+    "rmse": 0.703
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\valid\\images\\squash_powdery_mildew_jpg.rf.3255168042797fcb95d6d085bfac0f24.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1716.jpg",
+    "hamming": 0,
+    "rmse": 8.897
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\test\\images\\07_17_18_Common_Tomato_Diseases_Canker_258x300_jpg.rf.89b382e5825ed43f6d3aeb24602b5c22.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_0968.jpg",
+    "hamming": 0,
+    "rmse": 0.445
+  },
+  {
+    "kind": "source",
+    "a": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\test\\images\\5816740026_d42ef24413_Phytophthora_Infestans_jpg.rf.7efeaa18a4eede77949b2e6ee4cb4317.jpg",
+    "b": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantDoc数据集\\train\\images\\image_1857.jpg",
+    "hamming": 1,
+    "rmse": 0.712
+  },
+  {
+    "kind": "sample",
+    "a": 61242,
+    "b": 60973,
+    "hamming": 4,
+    "rmse": 6.351,
+    "label_conflict": false
+  },
+  {
+    "kind": "sample",
+    "a": 61831,
+    "b": 61825,
+    "hamming": 1,
+    "rmse": 1.886,
+    "label_conflict": false
+  },
+  {
+    "kind": "sample",
+    "a": 62866,
+    "b": 60139,
+    "hamming": 0,
+    "rmse": 9.57,
+    "label_conflict": true
+  },
+  {
+    "kind": "sample",
+    "a": 63276,
+    "b": 61878,
+    "hamming": 3,
+    "rmse": 5.045,
+    "label_conflict": false
+  },
+  {
+    "kind": "sample",
+    "a": 63671,
+    "b": 63319,
+    "hamming": 1,
+    "rmse": 8.888,
+    "label_conflict": false
+  },
+  {
+    "kind": "sample",
+    "a": 63988,
+    "b": 63249,
+    "hamming": 1,
+    "rmse": 4.096,
+    "label_conflict": false
+  },
+  {
+    "kind": "sample",
+    "a": 64440,
+    "b": 64415,
+    "hamming": 3,
+    "rmse": 7.121,
+    "label_conflict": false
+  },
+  {
+    "kind": "sample",
+    "a": 65715,
+    "b": 60822,
+    "hamming": 1,
+    "rmse": 2.541,
+    "label_conflict": false
+  },
+  {
+    "kind": "sample",
+    "a": 66216,
+    "b": 62981,
+    "hamming": 0,
+    "rmse": 5.094,
+    "label_conflict": false
+  },
+  {
+    "kind": "sample",
+    "a": 67026,
+    "b": 60205,
+    "hamming": 2,
+    "rmse": 6.19,
+    "label_conflict": true
+  }
+]

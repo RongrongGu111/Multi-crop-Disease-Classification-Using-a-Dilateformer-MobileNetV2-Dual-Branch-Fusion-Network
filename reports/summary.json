@@ -1,0 +1,32 @@
+{
+  "source_images": 62472,
+  "valid_source_images": 62472,
+  "source_counts": {
+    "PlantVillage": 59905,
+    "PlantDoc": 2567
+  },
+  "samples_before_deduplication": 68712,
+  "retained_samples": 68682,
+  "retained_by_source": {
+    "PlantVillage": 59875,
+    "PlantDoc": 8807
+  },
+  "exact_duplicate_samples_removed": 30,
+  "label_conflict_groups": 0,
+  "quarantined_samples": 0,
+  "issues": 11,
+  "near_duplicate_pairs": 457,
+  "samples_moved_to_protect_splits": 239,
+  "split_counts": {
+    "train": 48779,
+    "val": 13353,
+    "test": 6550
+  },
+  "classes": 45,
+  "validation": {
+    "output_files_checked": 68682,
+    "exact_duplicate_outputs": 0,
+    "cross_split_related_groups": 0,
+    "note": "Manifest-level validation; near-duplicate screening is conservative, not exhaustive."
+  }
+}

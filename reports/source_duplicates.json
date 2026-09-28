@@ -1,0 +1,542 @@
+[
+  [
+    {
+      "source_id": 1153,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\11beda66-01e9-4bfd-be37-c0f8646d1478___RS_HL 6271.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "ec2fe5801c82d7ffff332b9429480c6a432830ccce2f7e1aec1cc4c05f6a0abb",
+      "pixel_sha256": "b263cc559a6f886f43681c5b2c8630809864420457e7220e091cc11346ef5042"
+    },
+    {
+      "source_id": 42245,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Apple___Healthy\\13298d36-4425-437d-ae8e-c7d70e200084___RS_HL 6271.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "ec2fe5801c82d7ffff332b9429480c6a432830ccce2f7e1aec1cc4c05f6a0abb",
+      "pixel_sha256": "b263cc559a6f886f43681c5b2c8630809864420457e7220e091cc11346ef5042"
+    }
+  ],
+  [
+    {
+      "source_id": 1175,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\14896dc0-688d-456f-b5ec-a037695b0193___RS_HL 6268.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "5d486b62abe59b8dea5aef6b63f887bacd12bbc3cb2a154eb45a7a522e5d88c9",
+      "pixel_sha256": "c20b732b34ce1fab39ee7cc34a2c277266b960ee7998600ea68cd1b81000ea31"
+    },
+    {
+      "source_id": 42470,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Apple___Healthy\\c21cf428-bfc3-4710-b5d2-69d1c0e94748___RS_HL 6268.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "5d486b62abe59b8dea5aef6b63f887bacd12bbc3cb2a154eb45a7a522e5d88c9",
+      "pixel_sha256": "c20b732b34ce1fab39ee7cc34a2c277266b960ee7998600ea68cd1b81000ea31"
+    }
+  ],
+  [
+    {
+      "source_id": 1204,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\1ab5e019-e5f0-4d8e-a252-94cb0aab8b0a___RS_HL 6269.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "372bc4a6e18895011eaa18638acf8cdd83db9c5909af02cd833263d5cfeb0cbe",
+      "pixel_sha256": "892480d016ed53138092b6ca0351933e3e14812220eaf93a41523e2b69c71fce"
+    },
+    {
+      "source_id": 42293,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Apple___Healthy\\3673d121-b5de-481c-b057-d4ee5b4959b1___RS_HL 6269.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "372bc4a6e18895011eaa18638acf8cdd83db9c5909af02cd833263d5cfeb0cbe",
+      "pixel_sha256": "892480d016ed53138092b6ca0351933e3e14812220eaf93a41523e2b69c71fce"
+    }
+  ],
+  [
+    {
+      "source_id": 1381,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\3d075f90-7002-4c45-abc0-4f35ee49aa79___RS_HL 6272.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "6b242d89b134aa87000f8397d0e85f8448e3b3d607d3b7951cf69a2f3e92b0e2",
+      "pixel_sha256": "3cb2975e33d2a136f1b7a00953d9731994910ecdc9f1effc8acd2fbe524a5e9d"
+    },
+    {
+      "source_id": 1854,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\acb21cc2-8d65-4880-a7bb-dcc1eab1564b___RS_HL 6272.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "6b242d89b134aa87000f8397d0e85f8448e3b3d607d3b7951cf69a2f3e92b0e2",
+      "pixel_sha256": "3cb2975e33d2a136f1b7a00953d9731994910ecdc9f1effc8acd2fbe524a5e9d"
+    }
+  ],
+  [
+    {
+      "source_id": 1477,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\5192db55-4aa7-421c-92d4-c2dac79e7379___RS_HL 6273.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "767bbeee0c319d4097d7a6d949c6d21def97ceb2d16068eb5b94df42619acc8a",
+      "pixel_sha256": "9108ef7022d8c951fb3738adeebe18a97be11be4dabf1be09dfa6f6f90d1751e"
+    },
+    {
+      "source_id": 1784,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\9b75de13-d4b0-4b3f-988c-3e9926eef957___RS_HL 6273.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "767bbeee0c319d4097d7a6d949c6d21def97ceb2d16068eb5b94df42619acc8a",
+      "pixel_sha256": "9108ef7022d8c951fb3738adeebe18a97be11be4dabf1be09dfa6f6f90d1751e"
+    }
+  ],
+  [
+    {
+      "source_id": 2001,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\ced4e27a-5eff-4190-a33a-cdc3d84c811e___RS_HL 6270.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "d4b74359138ab2e04caffe9733f40ccdf616ee2fc9a4ecb2f058d7ba98c94fa8",
+      "pixel_sha256": "24e9f739ff6ba37925b2d455b9cad0abf5fd2b58ce065915b623220a8396b545"
+    },
+    {
+      "source_id": 2084,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\dc18b924-f172-445d-8fed-61445d437aaa___RS_HL 6270.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "d4b74359138ab2e04caffe9733f40ccdf616ee2fc9a4ecb2f058d7ba98c94fa8",
+      "pixel_sha256": "24e9f739ff6ba37925b2d455b9cad0abf5fd2b58ce065915b623220a8396b545"
+    }
+  ],
+  [
+    {
+      "source_id": 2166,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\f2cda910-55c7-46d7-b1a2-9a3bb9792148___RS_HL 6274.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "262198126fd6d982126b69261723e13abb36b3831387972f3aef7ebeedecf0a6",
+      "pixel_sha256": "17dc46a6c4e4114ad7c5f726a9c5dc50cbf226f19a1fcb243094a1e7675450c2"
+    },
+    {
+      "source_id": 2210,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Apple___Healthy\\fdbfa6f7-f887-442d-8df1-1f0cf839fc4d___RS_HL 6274.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "262198126fd6d982126b69261723e13abb36b3831387972f3aef7ebeedecf0a6",
+      "pixel_sha256": "17dc46a6c4e4114ad7c5f726a9c5dc50cbf226f19a1fcb243094a1e7675450c2"
+    }
+  ],
+  [
+    {
+      "source_id": 7496,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (355).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "d24bd7ac2bc3982abc2652ab3fe6998d24ae22a49ba3eb03ed16ea2f3bfaeef1",
+      "pixel_sha256": "8e0b6868ca3767271664e87072652ef11d55ce6d26154b06b8ad33800f74845f"
+    },
+    {
+      "source_id": 7497,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (356).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "d24bd7ac2bc3982abc2652ab3fe6998d24ae22a49ba3eb03ed16ea2f3bfaeef1",
+      "pixel_sha256": "8e0b6868ca3767271664e87072652ef11d55ce6d26154b06b8ad33800f74845f"
+    }
+  ],
+  [
+    {
+      "source_id": 7498,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (357).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "798fee114de4bfb03df8306e2b6a0fb3e4f20f90c9af5cbb84d134d4d109cad3",
+      "pixel_sha256": "e9cdfadaa193da0bd018487f4ee30f827a7b09b5ac72830498d35261a1eee6e4"
+    },
+    {
+      "source_id": 7499,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (358).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "798fee114de4bfb03df8306e2b6a0fb3e4f20f90c9af5cbb84d134d4d109cad3",
+      "pixel_sha256": "e9cdfadaa193da0bd018487f4ee30f827a7b09b5ac72830498d35261a1eee6e4"
+    }
+  ],
+  [
+    {
+      "source_id": 7501,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (361).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "9453d21df5c8e305fd5b738a68631162b276fc383cca90a9b9593b963925c1a5",
+      "pixel_sha256": "1ce8b849c4bc35b503179349043aa20bdc31f1245eeed93d3167654a2cdb9478"
+    },
+    {
+      "source_id": 7502,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (362).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "9453d21df5c8e305fd5b738a68631162b276fc383cca90a9b9593b963925c1a5",
+      "pixel_sha256": "1ce8b849c4bc35b503179349043aa20bdc31f1245eeed93d3167654a2cdb9478"
+    }
+  ],
+  [
+    {
+      "source_id": 7503,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (363).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "c366daf41f0f584ed7651e0b033a71b82118093278bb6c77e5ebce6d027301d4",
+      "pixel_sha256": "69bb812bdd852a5b45d4783db3b7902258db5c327670310cac8f95fd6eb2b5b1"
+    },
+    {
+      "source_id": 44057,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (364).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "c366daf41f0f584ed7651e0b033a71b82118093278bb6c77e5ebce6d027301d4",
+      "pixel_sha256": "69bb812bdd852a5b45d4783db3b7902258db5c327670310cac8f95fd6eb2b5b1"
+    }
+  ],
+  [
+    {
+      "source_id": 7505,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (366).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "667f085d904f3ad0e0fdbf55732755239750cd050a5f7e47fca3887ceaf21804",
+      "pixel_sha256": "c87638d17dc3ae6f0ad91b85f22fbd98b6a9a5a5d4d49dcd8902c8045cc989ef"
+    },
+    {
+      "source_id": 7506,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (367).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "667f085d904f3ad0e0fdbf55732755239750cd050a5f7e47fca3887ceaf21804",
+      "pixel_sha256": "c87638d17dc3ae6f0ad91b85f22fbd98b6a9a5a5d4d49dcd8902c8045cc989ef"
+    }
+  ],
+  [
+    {
+      "source_id": 7507,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Cucumber___Anthracnose\\Anthracnose (369).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "00b69e0c78e86e63ebf546854ad89001fd1de38166336978325bcc25fe61e25d",
+      "pixel_sha256": "3ddb057ff250143670033fcace5b87f611ecd654b4b19c63afea9a8f27e5afad"
+    },
+    {
+      "source_id": 44058,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (368).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "00b69e0c78e86e63ebf546854ad89001fd1de38166336978325bcc25fe61e25d",
+      "pixel_sha256": "3ddb057ff250143670033fcace5b87f611ecd654b4b19c63afea9a8f27e5afad"
+    }
+  ],
+  [
+    {
+      "source_id": 31422,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Healthy\\068e324c-faf6-40d6-8f83-578907f1cac5___GH_HL Leaf 466.1.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "2a05a74db3a270ac0ec77c00ebe89a332eed589819435129cc3c29eb6e701eb2",
+      "pixel_sha256": "7d53bbe0e0fba64fff05a981cc2d71aa31c3c6b48feb3266cd62cdc8d19ebc53"
+    },
+    {
+      "source_id": 31624,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Healthy\\34c81c57-e1fa-49dd-a49d-34fe8b2385fe___GH_HL Leaf 466.1.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "2a05a74db3a270ac0ec77c00ebe89a332eed589819435129cc3c29eb6e701eb2",
+      "pixel_sha256": "7d53bbe0e0fba64fff05a981cc2d71aa31c3c6b48feb3266cd62cdc8d19ebc53"
+    }
+  ],
+  [
+    {
+      "source_id": 31515,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Healthy\\1af0bfe1-4bcf-4b8b-be66-5d0953eb647e___GH_HL Leaf 482.2.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "61f6fa6195ef5c59c4918a292c641d4cd3d2d31ff051dcd0f36a625daf93f5ef",
+      "pixel_sha256": "0eaf0d56ff8151cb46533813ef89d9f9bd76817167936da6f4283c3eb5287737"
+    },
+    {
+      "source_id": 58524,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Tomato___Healthy\\cfd491d6-4af5-4728-8f0e-0d330a07174a___GH_HL Leaf 482.2.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "test",
+      "file_sha256": "61f6fa6195ef5c59c4918a292c641d4cd3d2d31ff051dcd0f36a625daf93f5ef",
+      "pixel_sha256": "0eaf0d56ff8151cb46533813ef89d9f9bd76817167936da6f4283c3eb5287737"
+    }
+  ],
+  [
+    {
+      "source_id": 31632,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Healthy\\37aad83b-7ff8-4b35-b3ed-fb8e0f54910b___GH_HL Leaf 342.1.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "68cda8c3ceca7626cc6727e14186d356b10d1e345eb16e425ef82f21a30258ed",
+      "pixel_sha256": "935402dee374cf95271d0676688c8600b48422cb5521820cb82e7be04a1fd132"
+    },
+    {
+      "source_id": 51168,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Tomato___Healthy\\e786ac89-29fe-47e3-b49e-b9a9ee7edd9d___GH_HL Leaf 342.1.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "68cda8c3ceca7626cc6727e14186d356b10d1e345eb16e425ef82f21a30258ed",
+      "pixel_sha256": "935402dee374cf95271d0676688c8600b48422cb5521820cb82e7be04a1fd132"
+    }
+  ],
+  [
+    {
+      "source_id": 31707,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Healthy\\488feb1c-4b9f-44e7-8aa6-4103a9601f5f___GH_HL Leaf 434.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "12852b3616bcf0ba39b03b5677e74f50f5f6abf4d38957fe17949e23e2a4b244",
+      "pixel_sha256": "64adebdc5d87128d79579273fc3808d095eb32d9bc058de7c0e316db8496d907"
+    },
+    {
+      "source_id": 32120,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Healthy\\a5de43e7-fc2f-4a14-a8e6-c0f2f94c84f1___GH_HL Leaf 434.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "12852b3616bcf0ba39b03b5677e74f50f5f6abf4d38957fe17949e23e2a4b244",
+      "pixel_sha256": "64adebdc5d87128d79579273fc3808d095eb32d9bc058de7c0e316db8496d907"
+    }
+  ],
+  [
+    {
+      "source_id": 31750,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Healthy\\505465db-407b-4e0a-8110-7479dad5261c___GH_HL Leaf 389.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "addddf5cb2a74192c9836be70fc223659062675eb325d55429c341a0c44937d0",
+      "pixel_sha256": "9350d6480a94ea3f7b11e43684351f19ee7231a68c321efeb11449af0c041163"
+    },
+    {
+      "source_id": 50955,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Tomato___Healthy\\37203047-d8ba-43f7-b31e-d496c41c569c___GH_HL Leaf 389.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "addddf5cb2a74192c9836be70fc223659062675eb325d55429c341a0c44937d0",
+      "pixel_sha256": "9350d6480a94ea3f7b11e43684351f19ee7231a68c321efeb11449af0c041163"
+    }
+  ],
+  [
+    {
+      "source_id": 32322,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Healthy\\d2ce7896-6fa4-45e6-96c5-d162da0e3e1c___GH_HL Leaf 220.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "32e9ffabaa054c19ae8df95e94fbd7a25105defdea1214eb5f8bd804ea9a7428",
+      "pixel_sha256": "c9061b2451ba4ed810afe97787b6df668dd325d96514850cd7830a0cde897fbd"
+    },
+    {
+      "source_id": 51075,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Tomato___Healthy\\9662364c-aaba-45e3-b907-10792d60578c___GH_HL Leaf 220.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "32e9ffabaa054c19ae8df95e94fbd7a25105defdea1214eb5f8bd804ea9a7428",
+      "pixel_sha256": "c9061b2451ba4ed810afe97787b6df668dd325d96514850cd7830a0cde897fbd"
+    }
+  ],
+  [
+    {
+      "source_id": 32649,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\1a69b38b-c4eb-42c4-9584-bcb14fb8db0c___GHLB2 Leaf 9011.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "7ff8410db407008bb9aecf0cc5505f2b47ffd89e508413a30ea983b4bc169714",
+      "pixel_sha256": "232acf5dc855ffe83fcfef1e0e406647a40d6a1099348c51ba4847bfa226bced"
+    },
+    {
+      "source_id": 32741,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\2c47b891-3c97-48f1-a2cc-5aa53d3a1148___GHLB2 Leaf 9011.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "7ff8410db407008bb9aecf0cc5505f2b47ffd89e508413a30ea983b4bc169714",
+      "pixel_sha256": "232acf5dc855ffe83fcfef1e0e406647a40d6a1099348c51ba4847bfa226bced"
+    }
+  ],
+  [
+    {
+      "source_id": 32882,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\48c55974-9fe9-4f4b-94f7-c8cd127d1e05___GHLB_PS Leaf 23.7 Day 13.jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "375eee7b5da77c7afdd73d089574bee3148d04cbe266ee070ee4774d26aca750",
+      "pixel_sha256": "1515772fa4a65e19491a91de5563e6d1ec0b1fcde6631d053f2f512407f608bf"
+    },
+    {
+      "source_id": 33491,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\bd4f09bd-ee85-4ab1-bce0-8cde3fdd7f1b___GHLB_PS Leaf 23.7 Day 13.jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "375eee7b5da77c7afdd73d089574bee3148d04cbe266ee070ee4774d26aca750",
+      "pixel_sha256": "1515772fa4a65e19491a91de5563e6d1ec0b1fcde6631d053f2f512407f608bf"
+    }
+  ],
+  [
+    {
+      "source_id": 32952,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\5688ea99-c949-41d0-bbab-9cbf0ffb8bcd___GHLB2 Leaf 8677.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "6e1610d4e0f6f84108af112322d11779254b2b2d41958449c64b0bf938628444",
+      "pixel_sha256": "2f945ee79344e10e31abd925186fa609e43c80feac95a83011c2a716010ef5ea"
+    },
+    {
+      "source_id": 33702,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\e20107e7-137f-400e-817f-5dc4c58e5d70___GHLB2 Leaf 8677.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "6e1610d4e0f6f84108af112322d11779254b2b2d41958449c64b0bf938628444",
+      "pixel_sha256": "2f945ee79344e10e31abd925186fa609e43c80feac95a83011c2a716010ef5ea"
+    }
+  ],
+  [
+    {
+      "source_id": 32995,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\5de6da85-f8c4-48c4-b463-3e6bd78884cc___GHLB_PS Leaf 24 Day 16.jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "4913a3835e692530e507d542caccacc0d0a7b2fd708782cdec6236a1a0dbbcd6",
+      "pixel_sha256": "7762db2ea68f830e3b2fd1ef155da38ee8165d33ec84e206545cf1540c180bca"
+    },
+    {
+      "source_id": 51305,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Tomato___Late_blight\\3fae9c64-18f0-4a67-9f97-554248bb1bed___GHLB_PS Leaf 24 Day 16.jpg",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "4913a3835e692530e507d542caccacc0d0a7b2fd708782cdec6236a1a0dbbcd6",
+      "pixel_sha256": "7762db2ea68f830e3b2fd1ef155da38ee8165d33ec84e206545cf1540c180bca"
+    }
+  ],
+  [
+    {
+      "source_id": 33003,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\5f21282c-e2ef-4c4a-ace1-b5701fe7effc___GHLB2 Leaf 8999.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "2aeb7479e975df37dfb54aa7b403f57f2ad90b018c37809e572a2a932f55d2a7",
+      "pixel_sha256": "b8c3e6d963cda006b9276a3cb59d9d81c766175d2e327dd36a611a73cc1b3d80"
+    },
+    {
+      "source_id": 33729,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\e5d707cd-077c-43af-bda9-6138e516ff51___GHLB2 Leaf 8999.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "2aeb7479e975df37dfb54aa7b403f57f2ad90b018c37809e572a2a932f55d2a7",
+      "pixel_sha256": "b8c3e6d963cda006b9276a3cb59d9d81c766175d2e327dd36a611a73cc1b3d80"
+    }
+  ],
+  [
+    {
+      "source_id": 33203,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\861d8b00-57a4-46b0-b51a-09d102dbe119___GHLB_PS Leaf 24 Day 13.jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "3a60a7b6f3a287981d21dca37f27e5480cc46d1144688d435e53db7a47b7006f",
+      "pixel_sha256": "0668be035d967718fab9bdb1b4bae3ec4263cb9d40e4211ad31e7ae35c2f18cc"
+    },
+    {
+      "source_id": 51517,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Tomato___Late_blight\\d82b634e-9a19-497b-b698-aaf100d622a1___GHLB_PS Leaf 24 Day 13.jpg",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "3a60a7b6f3a287981d21dca37f27e5480cc46d1144688d435e53db7a47b7006f",
+      "pixel_sha256": "0668be035d967718fab9bdb1b4bae3ec4263cb9d40e4211ad31e7ae35c2f18cc"
+    }
+  ],
+  [
+    {
+      "source_id": 33300,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\98586693-fe1f-4ea0-8e27-4501b61cf09b___GHLB_PS Leaf 23.5 Day 13.jpg",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "90220c67ab2c3ed150e93f0c26691d463200e784c74152e62acedac8a4d2d525",
+      "pixel_sha256": "50deb9cf7f6d5a9b499cba6a4d0fd9e54dccf5ccaf31ea3a29a12c52a0716d35"
+    },
+    {
+      "source_id": 58703,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Tomato___Late_blight\\c1775bad-7c02-41fb-bb7d-f8df91d60ac3___GHLB_PS Leaf 23.5 Day 13.jpg",
+      "dataset": "PlantVillage",
+      "original_split": "test",
+      "file_sha256": "90220c67ab2c3ed150e93f0c26691d463200e784c74152e62acedac8a4d2d525",
+      "pixel_sha256": "50deb9cf7f6d5a9b499cba6a4d0fd9e54dccf5ccaf31ea3a29a12c52a0716d35"
+    }
+  ],
+  [
+    {
+      "source_id": 33647,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\train\\Tomato___Late_blight\\d81682aa-746b-4e07-af2b-52ebb6f4c017___GHLB2 Leaf 102.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "train",
+      "file_sha256": "a05e573ae6c4a28b077b8c9d01249be849f4f8e1790b2625b42c6bc01098f718",
+      "pixel_sha256": "df7a5cb3256c9f09f47fb7786fbdb5f2be16959dcec6cc58773fea9622585f00"
+    },
+    {
+      "source_id": 58719,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Tomato___Late_blight\\d6e6897a-5083-4914-9903-804c5684a956___GHLB2 Leaf 102.JPG",
+      "dataset": "PlantVillage",
+      "original_split": "test",
+      "file_sha256": "a05e573ae6c4a28b077b8c9d01249be849f4f8e1790b2625b42c6bc01098f718",
+      "pixel_sha256": "df7a5cb3256c9f09f47fb7786fbdb5f2be16959dcec6cc58773fea9622585f00"
+    }
+  ],
+  [
+    {
+      "source_id": 44054,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (351).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "07ba1e51281dd0de7ebc9aa1db03aef2304ad02b694ad5b9ff24f4cdbbfd138a",
+      "pixel_sha256": "5fd15521555120d8b3e3d509c2dbc741cab7616f0359b5c5eb738bbc75e2bc10"
+    },
+    {
+      "source_id": 54964,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (352).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "test",
+      "file_sha256": "07ba1e51281dd0de7ebc9aa1db03aef2304ad02b694ad5b9ff24f4cdbbfd138a",
+      "pixel_sha256": "5fd15521555120d8b3e3d509c2dbc741cab7616f0359b5c5eb738bbc75e2bc10"
+    }
+  ],
+  [
+    {
+      "source_id": 44055,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (353).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "e2e6cbe0a9c709fb4f30de3c3ac99e38683cbff6eaaae8a7740f6e32974e4c55",
+      "pixel_sha256": "f3500ed18c53c4f96b46a0e7b6ded0ecb94df3eade0de6610ca8ba043688e35f"
+    },
+    {
+      "source_id": 54965,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (354).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "test",
+      "file_sha256": "e2e6cbe0a9c709fb4f30de3c3ac99e38683cbff6eaaae8a7740f6e32974e4c55",
+      "pixel_sha256": "f3500ed18c53c4f96b46a0e7b6ded0ecb94df3eade0de6610ca8ba043688e35f"
+    }
+  ],
+  [
+    {
+      "source_id": 44056,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\val\\Cucumber___Anthracnose\\Anthracnose (360).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "val",
+      "file_sha256": "535134bb4cdfda6070b50423ace001d960815327f97470452ef066a38f405ad2",
+      "pixel_sha256": "6572b9f1701bdfb69d873bb009a71ebf04d6fe045ad02fa6b893d4259cfca5b7"
+    },
+    {
+      "source_id": 54966,
+      "source": "C:\\Users\\15344\\Desktop\\病害检测项目完全重构\\plantVillage数据集\\test\\Cucumber___Anthracnose\\Anthracnose (359).jpg",
+      "dataset": "PlantVillage",
+      "original_split": "test",
+      "file_sha256": "535134bb4cdfda6070b50423ace001d960815327f97470452ef066a38f405ad2",
+      "pixel_sha256": "6572b9f1701bdfb69d873bb009a71ebf04d6fe045ad02fa6b893d4259cfca5b7"
+    }
+  ]
+]
